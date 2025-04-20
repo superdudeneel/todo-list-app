@@ -106,6 +106,21 @@
   .delete-btn:hover {
     background-color: #e60023;
   }
+
+
+  .list-items:hover {
+    background: #e8f0ff;
+    transform: scale(1.03);
+  }
+
+.dragging {
+  opacity: 0.7;
+  transform: rotate(-2deg);
+}
+.over {
+  border: 2px dashed #ff8c42;
+  background: #fff3e0;
+}
   
   @media (max-width: 600px) {
     .input-wrapper {
