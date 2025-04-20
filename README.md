@@ -7,7 +7,7 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 - ✅ Add new tasks
 - 🗑️ Delete completed tasks
 - 📱 Mobile-friendly and responsive layout
-- 💾 Stores tasks locally in your browser (if implemented)
+- 💾 Drag and drop functionality
 
 ## 🛠️ Tech Stack
 
