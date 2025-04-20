@@ -15,9 +15,6 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 - **CSS** – Styling and layout
 - **JavaScript** – Core logic and interactivity
 
-## 📁 File Structure
-
-
 ## 🧰 How to Use
 
 1. **Clone the repository:**
